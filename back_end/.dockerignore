@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+node_modules
+.git
+requests
+tests
+.eslint*
+.env
+.prettierrc
